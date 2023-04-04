@@ -15,9 +15,10 @@ Mystic Woods <https://game-endeavor.itch.io/mystic-woods>
 
 Pixel Art Top Down - Basic <https://cainos.itch.io/pixel-art-top-down-basic>
 
-### 게임 화면
-
+## 게임 화면
 
 <img width="1347" alt="스크린샷 2023-04-04 오후 3 33 10" src="https://user-images.githubusercontent.com/37990408/229707789-5791d353-e5a4-4c67-8157-17dc67f2f393.png">
 <img width="1433" alt="스크린샷 2023-04-04 오후 3 33 47" src="https://user-images.githubusercontent.com/37990408/229707797-8a75fb2b-bfe0-4a1c-aacf-ce5f87905833.png">
-<img width="1124" alt="스크린샷 2023-04-04 오후 3 34 02" src="https://user-images.githubusercontent.com/37990408/229707799-8af99696-9e1c-4bcc-86a0-4cbad4c4e3c4.png">
+
+
+![화면 캡처 2023-04-04 224752](https://user-images.githubusercontent.com/37990408/229813137-f522805b-0d90-4cfb-a593-3c74f0d567c9.png)
